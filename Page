@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Bewerbung – Fachinformatiker Anwendungsentwicklung</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Dein Name</h1>
+  <p>Bewerbung für ein Berufsorientierungspraktikum</p>
+</header>
+
+<section>
+  <h2>Über mich</h2>
+  <p>
+    Ich bin 26 Jahre alt und interessiere mich sehr für die IT,
+    insbesondere für die Entwicklung von Anwendungen.
+    Aktuell suche ich ein Berufsorientierungspraktikum,
+    um praktische Einblicke in den Beruf des Fachinformatikers
+    für Anwendungsentwicklung zu gewinnen.
+  </p>
+</section>
+
+<section>
+  <h2>Warum Fachinformatiker Anwendungsentwicklung?</h2>
+  <p>
+    Mich begeistert es, Probleme logisch zu lösen und digitale
+    Lösungen zu entwickeln. Besonders spannend finde ich es,
+    wie aus Code funktionierende Anwendungen entstehen.
+    Das Praktikum soll mir helfen, meine berufliche Zukunft
+    bewusst zu gestalten.
+  </p>
+</section>
+
+<section>
+  <h2>Aktueller Kenntnisstand</h2>
+  <ul>
+    <li>Grundlagen in HTML und CSS (Selbststudium)</li>
+    <li>Erste Berührung mit Programmierlogik</li>
+    <li>Hohe Lernbereitschaft und Motivation</li>
+    <li>Zuverlässig, strukturiert, teamfähig</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Praktikum & Kontakt</h2>
+  <p>
+    Zeitraum: Nach Absprache<br>
+    E-Mail: deine@email.de
+  </p>
+</section>
+
+</body>
+</html>
